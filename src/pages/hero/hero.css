@@ -1,0 +1,45 @@
+.container {
+    padding: 60px 160px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+}
+
+.imgsize {
+    max-height: 500px;
+} 
+
+.right-box {
+  text-align: right;
+  padding: 80px 0;
+}
+
+.right-box-maintxt {
+    font-family: 'Helvetica';
+    color: #240D57;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    padding-bottom: 16px;
+}
+
+.snap {
+    background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.right-box-txt {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+
+    color: #4F4F4F;
+    padding-bottom: 50px;
+
+}
